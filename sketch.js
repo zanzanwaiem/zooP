@@ -5,4 +5,5 @@ function setup() {
 function draw() {
   background(220);
   circle(width/2, height/2 , 20);
+  circle(width/2, height/2 , 10);
 }
